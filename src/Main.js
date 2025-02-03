@@ -34,17 +34,7 @@ export default function Main() {
       },
     },
   };
-  // const config = {
-  //   screens: {
-     
-  //     NewsDetails: {
-  //       path: '/:id',
-  //       parse: {
-  //         id: (id) => `${id}`,
-  //       },
-  //     },
-  //   },
-  // };
+
 
   const linking = {
     prefixes: [ 'https://marketworld.com', 'marketworld://',],

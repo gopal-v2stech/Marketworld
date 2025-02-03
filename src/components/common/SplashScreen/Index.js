@@ -5,7 +5,7 @@ export default function Index({navigation}) {
 
     useEffect(()=>{
         setTimeout(()=>{
-            navigation.navigate('loginNewClass') 
+            navigation.navigate('loginNew') 
         },2500)
     })
     

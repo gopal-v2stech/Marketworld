@@ -4,7 +4,7 @@
             "outputFile": "com.marketworld.app-mergeDebugResources-36:/values-ru/values-ru.xml",
             "map": [
                 {
-                    "source": "/home/v2stech/.gradle/caches/transforms-3/2f216cca759951a3d1a0a51a68986304/transformed/appcompat-1.4.1/res/values-ru/values-ru.xml",
+                    "source": "/home/v2stech/.gradle/caches/transforms-3/e0686102678e5eabdd57921af541c76e/transformed/appcompat-1.4.1/res/values-ru/values-ru.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/v2stech/.gradle/caches/transforms-3/c1fabe043351af207df4724afd072fe1/transformed/jetified-play-services-base-18.1.0/res/values-ru/values.xml",
+                    "source": "/home/v2stech/.gradle/caches/transforms-3/b8e6892a4cd61af9bc07c3851b8cfe2d/transformed/jetified-play-services-base-18.1.0/res/values-ru/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/home/v2stech/.gradle/caches/transforms-3/063d3c1e1f7c7d31ea835700eada1e4f/transformed/jetified-play-services-basement-18.1.0/res/values-ru/values.xml",
+                    "source": "/home/v2stech/.gradle/caches/transforms-3/c1c2bbd87bdcfc2f546c717fb238d3c1/transformed/jetified-play-services-basement-18.1.0/res/values-ru/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/home/v2stech/.gradle/caches/transforms-3/8e53c3ddd77002509178568f951470e3/transformed/core-1.7.0/res/values-ru/values-ru.xml",
+                    "source": "/home/v2stech/.gradle/caches/transforms-3/8fcb66759c7e5a40fc028cb8d6aa1769/transformed/core-1.7.0/res/values-ru/values-ru.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
